@@ -1,4 +1,3 @@
-# pages/3_Tendencias_Temporais.py
 import streamlit as st
 import plotly.express as px
 from data_utils import load_spotify_data

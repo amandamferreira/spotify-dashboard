@@ -1,4 +1,3 @@
-# app.py
 import streamlit as st
 from data_utils import load_spotify_data
 

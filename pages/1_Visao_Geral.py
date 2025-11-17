@@ -1,4 +1,3 @@
-# pages/1_Visao_Geral.py
 import streamlit as st
 import plotly.express as px
 from data_utils import load_spotify_data
